@@ -17,7 +17,7 @@ Mục tiêu của dự án là giúp nắm vững các khái niệm cơ bản tr
 ##### Bước 1: Cài Đặt Linux Trên Máy Ảo
 - Tải ISO của Ubuntu Server hoặc CentOS.
 - Tạo một máy ảo trên VMWare hoặc VirtualBox.
-  ![image](https://github.com/user-attachments/assets/e700f775-502d-488d-95c3-000ee6586d88)
+ - ![image](https://github.com/user-attachments/assets/e700f775-502d-488d-95c3-000ee6586d88)
 - Cài đặt hệ điều hành và cấu hình mạng cho máy ảo.
 - ![image](https://github.com/user-attachments/assets/ff66e37d-ccfc-4ec4-9f7f-5210188a093c)
 
