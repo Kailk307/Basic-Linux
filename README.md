@@ -15,7 +15,10 @@ Mục tiêu của dự án là giúp nắm vững các khái niệm cơ bản tr
 - Kết nối SSH: sử dụng SSH từ terminal.
 ### 3. Các Bước Thực Hiện Dự Án
 ##### Bước 1: Cài Đặt Linux Trên Máy Ảo
-Tải ISO của Ubuntu Server hoặc CentOS.
-Tạo một máy ảo trên VMWare hoặc VirtualBox.
-Cài đặt hệ điều hành và cấu hình mạng cho máy ảo.
-![image](https://github.com/user-attachments/assets/715c670e-aa8d-4b27-8ae1-6ff5cd4f2c94)
+- Tải ISO của Ubuntu Server hoặc CentOS.
+  ![image](https://github.com/user-attachments/assets/715c670e-aa8d-4b27-8ae1-6ff5cd4f2c94)
+- Tạo một máy ảo trên VMWare hoặc VirtualBox.
+- Cài đặt hệ điều hành và cấu hình mạng cho máy ảo.
+  ![image](https://github.com/user-attachments/assets/e700f775-502d-488d-95c3-000ee6586d88)
+
+
